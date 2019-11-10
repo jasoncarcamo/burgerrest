@@ -76,7 +76,8 @@ body {
     font-weight: 100;
     line-height: 2.1em;
     width: 90%;
-    margin-top: 1em;
+    margin: 1em auto;
+    text-align: center;
   }
   
   /* Content Button */
@@ -86,7 +87,7 @@ body {
     color: #05A8AA;
     display: block;
     font-weight: 700;
-    width: 16em;
+    width: 13em;
     padding: 1.25em;
     margin: 2.25em auto;
     border: .1em solid blue;
